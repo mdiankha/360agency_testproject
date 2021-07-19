@@ -49,6 +49,8 @@ This project built using Java and the following tools:
 
     PUT /vehicles/{id} JSON Input format to change the given state(PUBLISHED, DRAFT) of Car
     Get information about vehicle  http://localhost:8091/vehicles
+    Get information about dealerName by status http://localhost:8091/vehiclesbystatus?dealerName=tapha&status=PUBLISHED
+    Notes: The value of the status parameter must be in uppercase
 
     API Documentation
     When server is up and running, you can use swagger to explore the available endpoints and try them out. Find it at: http://localhost:8091/swagger-ui.html#/
