@@ -1,0 +1,8 @@
+com/agency/service/VehicleServiceImplementation.class
+com/agency/service/VehicleService.class
+com/agency/Application.class
+com/agency/service/JPAConfig.class
+com/agency/SwaggerConfig.class
+com/agency/repository/VehicleRepository.class
+com/agency/entity/Vehicle.class
+com/agency/exception/BadRequestException.class

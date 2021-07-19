@@ -1,0 +1,11 @@
+/home/moustapha/Videos/testProject/src/main/java/com/agency/exception/BadRequestException.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/service/JPAConfig.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/service/VehicleServiceImplementation.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/SwaggerConfig.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/exception/VehicleNotFoundException.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/controller/VehicleController.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/entity/Vehicle.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/Application.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/exception/VehicleAlreadyExistsException.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/repository/VehicleRepository.java
+/home/moustapha/Videos/testProject/src/main/java/com/agency/service/VehicleService.java

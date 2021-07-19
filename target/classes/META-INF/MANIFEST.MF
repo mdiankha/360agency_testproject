@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: moustapha
+Build-Jdk: 16.0.1
+Implementation-Title: spring-boot
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.agency
+Implementation-URL: http://www.example.com
+Main-Class: com.agency.Application
+Created-By: Maven Integration for Eclipse
+
