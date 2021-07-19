@@ -44,7 +44,7 @@ This project built using Java and the following tools:
     "registeredMobile": 33667744,
     "price": 7000.0,
     "postingDate": "06-06-2021",
-    "status": "DRAFT"
+    "status": "PUBLISHED"
     }
 
     PUT /vehicles/{id} JSON Input format to change the given state(PUBLISHED, DRAFT) of Car

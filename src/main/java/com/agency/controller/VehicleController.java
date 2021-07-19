@@ -75,7 +75,7 @@ public class VehicleController {
 
         List<Vehicle> listVehPubByDealer = new ArrayList<Vehicle>();
          listVehPubByDealer = findAllByStatus(vehi.getDealerName(), "PUBLISHED");
-        if( listVehPubByDealer.size() > 5 ){
+        if( listVehPubByDealer.size() >= 5 ){
             throw new ResourceNotFoundException("Pleaze you have exceeded the number of advertisements authorized,  " + listVehPubByDealer.size() + " delete the old advertisements in order to post again.");
           /*   try {
 
